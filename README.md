@@ -20,7 +20,7 @@ I'm Srujana, an aspiring Bug bounty hunter who enjoys breaking, analyzing, and s
 📁 GitHub: https://github.com/Srujana-18
 
 > uptime
-🛡️Always learning, always upgrading my system.
+🛡️Always learning, always upgrading knowledge.
 
 <!--
 **Srujana-18/Srujana-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
