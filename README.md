@@ -1,4 +1,19 @@
 ## Hi there 👋
+I am Srujana
+>whoami
+Ethical Hacking Enthusiast and Life time learner
+>cat profile.txt
+🌱 I’m currently exploring Web application Penetration testing,Vulnerability Management
+
+Tools I use:
+-Wireshark,nmap,
+-Subfinder,ffuf,
+-Nikto,nessus,
+-Metasploit,Burpsuite,
+-Kali Linux,sql map
+
+How to Reach me:
+LinkedIn:https://www.linkedin.com/in/srujanavemula
 
 <!--
 **Srujana-18/Srujana-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
