@@ -1,8 +1,9 @@
 ## Hi there 👋
 I am Srujana
->whoami
+whoami
 Ethical Hacking Enthusiast and Life time learner
->cat profile.txt
+
+cat profile.txt
 🌱 I’m currently exploring Web application Penetration testing,Vulnerability Management
 
 Tools I use:
