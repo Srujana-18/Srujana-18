@@ -1,42 +1,26 @@
 ## Hi👋 I am Srujana 
-<!--Ethical Hacking Enthusiast,Bug bounty hunter and Life time learner
 
-🌱 I’m currently exploring Web application Penetration testing,Vulnerability Management	
-Tools I use:
-    -Wireshark,nmap,
-    -Subfinder,ffuf,
-    -Nikto,nessus,
-    -Metasploit,Burpsuite,
-    -Kali Linux,sql map
+```bash
+> whoami
+I'm Srujana, an aspiring Bug bounty hunter who enjoys breaking, analyzing, and securing apps focused on offensive security, and vulnerability assessment.
 
-How to Reach me:
+> cat ~/skills.txt    
+🧠 Skills & Tools:
+- Network Analysis: Wireshark, Nmap, TCPdump  
+- Ethical Hacking: Kali Linux, Burp Suite, Metasploit  
+- Web Recon & Dir Busting: Subfinder, ffuf  
+- Vulnerability Scanning: Nikto, Nessus  
+- Injection Testing & Exploits: SQLmap
 
-**LinkedIn:**https://www.linkedin.com/in/srujanavemula-->
+> echo $LEARNING   
+📘 Learning: Red Team tactics, Web application penetration testing and Security.
 
-whoami
-I'm Srujana, an aspiring Bug bounty hunter who enjoys breaking, analyzing, and securing networks focused on offensive security, and vulnerability assessment.
+> echo $CONTACT
+🔗 LinkedIn: https://linkedin.com/in/srujanavemula
+📁 GitHub: https://github.com/Srujana-18
 
-cat ~/skills.txt
-
-Network Analysis: Wireshark, Nmap, TCPdump
-
-Ethical Hacking: Kali Linux, Burp Suite, Metasploit
-
-Web Recon & Dir Busting: Subfinder, ffuf
-
-Vulnerability Scanning: Nikto, Nessus
-
-Injection Testing & Exploits: SQLmap
-
-echo $CERTS
-📜 Learning for: eJPT, OSCP, PNPT
-
-echo $SOCIAL
-🔗 LinkedIn: https://www.linkedin.com/in/srujanavemula
-📁 GitHub: github.com/Srujana-18
-
-uptime
-🚀 Always learning, always scanning.
+> uptime
+🛡️Always learning, always upgrading my system.
 
 <!--
 **Srujana-18/Srujana-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
